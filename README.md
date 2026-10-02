@@ -95,12 +95,10 @@ astropy 7.2.2
 astroquery 0.4.11
 Reproducibility
 
+
 The analysis workflow is organized so that the raw NASA Exoplanet Archive dataset is processed into the core quality-filtered sample before the individual analyses are performed.
 
 Additional parameter-specific filtering is applied only when required by a particular analysis.
 
 
-This file is:
 
-```text
-research-immersion-paper/README.md
