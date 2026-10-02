@@ -1,9 +1,21 @@
-## Software Development
-Python: 3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]
-* pandas: 2.2.3
-* numpy: 2.1.3
-* scipy: 1.16.3
-* matplotlib: 3.10.0
-* seaborn: 0.13.2
-* astropy: 7.2.2
-* astroquery: 0.4.11
+# Characterization of Apparent Single-Planet Systems Using NASA Exoplanet Archive Data
+
+## Overview
+
+This repository contains the data, analysis code, figures, and manuscript files for the research study:
+
+**Characterization of Single-Exoplanetary Systems Using NASA Exoplanet Archive (NEA) Data**
+
+The study characterizes apparent single-planet systems using planetary, orbital, and host-star properties obtained from the NASA Exoplanet Archive.
+
+## Data Source
+
+The planetary and stellar data were obtained from the:
+
+- NASA Exoplanet Archive
+- Planetary Systems Composite Parameters (`pscomppars`) table
+
+The initial sample was selected using:
+
+```text
+sy_pnum = 1
