@@ -84,21 +84,5 @@ code/       Data retrieval and analysis scripts
 figures/    Final research figures
 tables/     Statistical results and supporting tables
 manuscript/ Manuscript and reference files
-Software Environment
-Python 3.13.15
-pandas 2.2.3
-numpy 2.1.3
-scipy 1.16.3
-matplotlib 3.10.0
-seaborn 0.13.2
-astropy 7.2.2
-astroquery 0.4.11
-Reproducibility
-
-
-The analysis workflow is organized so that the raw NASA Exoplanet Archive dataset is processed into the core quality-filtered sample before the individual analyses are performed.
-
-Additional parameter-specific filtering is applied only when required by a particular analysis.
-
 
 
