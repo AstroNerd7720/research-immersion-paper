@@ -1,4 +1,4 @@
-# Characterization of Apparent Single-Planet Systems Using NASA Exoplanet Archive Data
+# Characterization of Apparent Single-Exoplanetary aSystems Using NASA Exoplanet Archive (NEA) Data
 
 ## Overview
 
